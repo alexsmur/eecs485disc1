@@ -22,7 +22,7 @@ feedparser==5.2.0
 Flask==0.10.1
 GeoIP-Python==1.2.8
 GnuPGInterface==0.3.2
-httplib2==0.9.1
+httplib2==0.19.0
 idna==2.0
 iniparse==0.4
 ipaddress==1.0.7

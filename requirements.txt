@@ -49,7 +49,7 @@ paramiko==1.15.2
 Paste==1.7.5.1
 path.py==5.2
 pexpect==3.1
-Pillow==2.8.2
+Pillow==8.2.0
 ply==3.4
 policycoreutils-default-encoding==0.1
 pwquality==1.2.4

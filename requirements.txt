@@ -45,7 +45,7 @@ ntplib==0.3.2
 numpy==1.9.2
 oauth==1.0.1
 openshot==1.4.3
-paramiko==1.15.2
+paramiko==2.10.1
 Paste==1.7.5.1
 path.py==5.2
 pexpect==3.1

@@ -83,7 +83,7 @@ pyxattr==0.5.3
 pyxdg==0.25
 pyzmq==14.4.1
 rencode==1.0.3
-reportlab==3.1.8
+reportlab==3.5.55
 requests==2.7.0
 rpm-python==4.12.0.1
 rsa==3.1.1
